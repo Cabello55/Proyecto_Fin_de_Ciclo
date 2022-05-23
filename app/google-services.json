@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "211140005830",
+    "firebase_url": "https://dropez-app-default-rtdb.firebaseio.com",
+    "project_id": "dropez-app",
+    "storage_bucket": "dropez-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211140005830:android:15d4f27388c49d4fcf6cc7",
+        "android_client_info": {
+          "package_name": "com.ale.proyecto_dropez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211140005830-lkdut1q1q9ku0ftl6ktt0plfia6jtu4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDsnv9wnhjLqdWGJj2UX3H4gyYr6-t4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211140005830-lkdut1q1q9ku0ftl6ktt0plfia6jtu4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

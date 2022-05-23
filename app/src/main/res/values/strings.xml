@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Proyecto_Dropez</string>
+    <string name="btn_iniciar_pantalla"> Iniciar Sesion</string>
+    <string name="btn_registrar_pantalla"> Registrarse</string>
+    <string name="btn_iniciar_sesion"> Iniciar Sesion</string>
+    <string name="btn_registrase_sesion"> Registrarse</string>
+
+    <string name="premiados_btn">Premiados</string>
+    <string name="aventuras_btn">Aventuras</string>
+    <string name="indies_btn">Indies</string>
+    <string name="rol_btn">Rol</string>
+    <string name="deportivos_btn">Deportivos</string>
+
+    <string name="descripcion_premiados">Juegos aclamados por la critica</string>
+    <string name="descripcion_aventuras">Plataformas es lo tuyo</string>
+    <string name="descripcion_indies">Juegos alternativos pero divertidos</string>
+    <string name="descripcion_rol">Cuidado con las horas</string>
+    <string name="descripcion_deportivos">Aquí está la competición</string>
+
+</resources>
